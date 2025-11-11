@@ -11,4 +11,4 @@ The project aims to have the following (loosely) defined parameters:
 2. A drive current of above 100 mA
 3. Rail-to-rail operation with voltages up to +-12V (not particularly important but a nice to have)
 
-![alt_text[(https://github.com/PhilKrivor/ArbitraryWaveformGenerator/blob/main/BlockDiagram.png?raw=true)]
+![alt_text](https://github.com/PhilKrivor/ArbitraryWaveformGenerator/blob/main/BlockDiagram.png?raw=true)
