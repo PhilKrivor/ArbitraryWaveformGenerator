@@ -1,0 +1,49 @@
+Added Component: Designator=J1(SAMESKY_UJ20-C-H-G-SMT-1-P16-TR)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UJ20-C-H-G-SMT-1-P16-TR/Same+Sky/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UJ20-C-H-G-SMT-1-P16-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UJ20-C-H-G-SMT-1-P16-TR/Same+Sky/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SON50P300X300X100-11N)
+Added Pin To Net: NetName=+1V2 Pin=U3-2
+Added Net: Name=+1V2
+Added Pin To Net: NetName=+1V8 Pin=U3-3
+Added Net: Name=+1V8
+Added Pin To Net: NetName=+3V3 Pin=U2-15
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V0 Pin=J1-A4_B9
+Added Pin To Net: NetName=+5V0 Pin=J1-B4_A9
+Added Pin To Net: NetName=+5V0 Pin=U2-18
+Added Pin To Net: NetName=+5V0 Pin=U3-7
+Added Pin To Net: NetName=+5V0 Pin=U3-8
+Added Pin To Net: NetName=+5V0 Pin=U3-9
+Added Pin To Net: NetName=+5V0 Pin=U3-10
+Added Net: Name=+5V0
+Added Pin To Net: NetName=GND Pin=J1-A1_B12
+Added Pin To Net: NetName=GND Pin=J1-B1_A12
+Added Pin To Net: NetName=GND Pin=J1-SH1
+Added Pin To Net: NetName=GND Pin=J1-SH2
+Added Pin To Net: NetName=GND Pin=J1-SH3
+Added Pin To Net: NetName=GND Pin=J1-SH4
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-19
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Net: Name=GND
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-A6
+Added Pin To Net: NetName=NetJ1_A6 Pin=J1-B6
+Added Pin To Net: NetName=NetJ1_A6 Pin=U2-13
+Added Net: Name=NetJ1_A6
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-A7
+Added Pin To Net: NetName=NetJ1_A7 Pin=J1-B7
+Added Pin To Net: NetName=NetJ1_A7 Pin=U2-14
+Added Net: Name=NetJ1_A7
+Added Member To Class: ClassName=Sheet1 Member=Component J1 UJ20-C-H-G-SMT-1-P16-TR
+Added Member To Class: ClassName=Sheet1 Member=Component U3 NCV8154MW120180TBG
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
